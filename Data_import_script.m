@@ -3,7 +3,7 @@ clear all
 
 %% Parameters
 
-dirName = '/Users/meurig/Desktop/StudyGroup/'; % Host directory of files
+dirName = ''; % Host directory of files
 timeString = 'T3'; % Choose T1 (8 weeks), T2 (10 weeks) or T3 (12 weeks)
 fileDiameter = '1900'; % Choose 500 or 1900 (pixels)
 fileDepth = '300'; % Choose from 300 or 2000 (pixels)
